@@ -62,13 +62,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelisCakan/MelisCakan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelisCakan/MelisCakan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MelisCakan/MelisCakan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=20&section=footer&reversal=false&text=Once%20a%20coder,%20always%20a%20coder.&fontSize=10&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
